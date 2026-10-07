@@ -1,0 +1,54 @@
+{
+  "slug": "golden-eye-event-management-kothamangalam",
+  "name": "Golden Eye Event Management",
+  "shortName": "Golden Eye",
+  "descriptor": "Event Management",
+  "address": "Kottakkudiyil House, Muncipal School, Valiyapara - Valiyakavu Rd, Vayanasaala, P.O, Kuthukuzhy, Kothamangalam, Keralam 686691",
+  "area": "Kothamangalam",
+  "city": "Kothamangalam",
+  "district": "Ernakulam",
+  "region": "Kerala",
+  "postalCode": "686691",
+  "geo": {
+    "lat": 10.058907399999999,
+    "lng": 76.649615
+  },
+  "mapsLink": "https://maps.google.com/?cid=15406859762444435204",
+  "phone": "+91 95625 00110",
+  "whatsapp": "919562500110",
+  "hours": "Open 24 hours · all days",
+  "opens": "00:00",
+  "closes": "23:59",
+  "rating": 4.7,
+  "reviewCount": 26,
+  "reviews": [
+    {
+      "name": "Akhil Thanku",
+      "rating": 5,
+      "quote": "We hired this catering service for our recent event, and they did an incredible job! The food was exceptionally delicious, fresh, and served with great hygiene. Their team was super polite, punctual, and handled all our guests with utmost care. Everyone at the event had only great things to say about the food and service."
+    },
+    {
+      "name": "Deetus ks",
+      "rating": 5,
+      "quote": "Had such a great experience with Golden Eye Event Management. The whole team was so hospitable and really took care of everything, so we didn't have to worry about a thing. The food was delicious and the quality was top-notch. It was a pleasure working with Jibish and his team, and I'll definitely be hiring them again for future events"
+    },
+    {
+      "name": "Linju John",
+      "rating": 5,
+      "quote": "I booked Golden Eye Team for my brother's wedding. They were recommended by a friend of mine. The food was exceptionally delicious and the service was quite hospitable too. Jibish and Sebin are quite experienced and we can feel the effort of the Team work that goes into their work."
+    },
+    {
+      "name": "Aleena Kuriakose",
+      "rating": 5,
+      "quote": "Excellent food and very friendly service."
+    }
+  ],
+  "gallery": [
+    "gallery/01.webp",
+    "gallery/02.webp",
+    "gallery/03.webp",
+    "gallery/04.webp",
+    "gallery/05.webp"
+  ],
+  "url": "https://golden-eye-event-management-kothama.vercel.app"
+}
